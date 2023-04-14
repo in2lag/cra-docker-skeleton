@@ -1,3 +1,9 @@
+# How to build and run docker image
+
+- `docker build -t react-app .`
+- `docker run -it -p 80:80 react-app`
+- visit `localhost` in your browser
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
